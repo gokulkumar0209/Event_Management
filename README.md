@@ -12,8 +12,8 @@ This is a FastAPI-based Event Management System that allows users to create even
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-repo/event-management-api.git
-cd event-management-api/Event_Management
+git clone https://github.com/gokulkumar0209/Event_Management.git
+cd Event_Management/Event_Management
 ```
 
 ### Step 2: Create a Virtual Environment
